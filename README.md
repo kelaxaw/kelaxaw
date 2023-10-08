@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelaxaw)](https://github.com/anuraghazra/github-readme-stats)
+Hi there 👋 
+<img src="https://pin.it/2qcxXWM" alt="gif"/>
